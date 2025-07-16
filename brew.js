@@ -1,3 +1,4 @@
+// tring to remember what I wrote here, looks like some sort of page access control
 var myApp = angular.module("myApp", ["ngRoute"]);
 
 myApp.config(function($routeProvider) {
